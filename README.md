@@ -2,15 +2,17 @@ Nama    : Muhamad Rizki Wahyu Saputra
 <p> Nim     : 312410534
 <p> Kelas   : TI.24.A5
 <p>Matkul  : Pemograman Web 1
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+<p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Lab-1-Web
 Penjelasan Langkah-Langkah Kode HTML
 Siapkan Aplikasi VSCode
-Gambar 1 ![alt text](https://github.com/ibntrmdzi/Lab-1-Web/blob/main/Gambar%201.png?raw=true)
+![alt text](https://github.com/ibntrmdzi/Lab-1-Web/blob/main/Gambar%201.png?raw=true)
 
 Kemudian buat file baru dengan nama lab1_tag_dasar.html dan masukan kode tag dasar dokumen
 HTML.
-Gambar 2
+Gambar 2 ![alt text](?raw=true)
 1. <!DOCTYPE html>
 - Fungsi: Menyatakan bahwa dokumen ini menggunakan standar HTML5.
 - Proses: Memberi tahu browser agar merender halaman sesuai aturan HTML5.
@@ -25,10 +27,10 @@ Bagian ini berisi informasi metadata yang tidak ditampilkan langsung ke pengguna
 - <meta charset="UTF-8">: Menentukan encoding karakter agar teks ditampilkan dengan benar.
 - <title>: Judul halaman yang akan muncul di tab browser.
 Dijalankan hasil kodenya di Browser dan hasilnya masih kosong:
-Gambar 3
+Gambar 3 ![alt text](?raw=true)
 
 Kemudian masukan kode Judul utama halaman seperti gambar dibawah ini:
-Gambar 4
+Gambar 4 ![alt text](?raw=true)
 4. <h1>Belajar Dasar HTML</h1>
 - Fungsi: Menampilkan judul utama halaman.
 - Proses: Ditampilkan dengan ukuran besar dan tebal, menandakan topik utama.
@@ -43,10 +45,10 @@ Paragraf pertama:
 - Proses: Ditampilkan lebih kecil dari <h1>, menandakan bagian baru.
   Paragraf kedua:
 Sekaligus di isi paragrafnya dan hasilnya:
-Gambar 5
+Gambar 5 ![alt text](?raw=true)
 
 Kemudian masukan kode untuk menambahkan gambar seperti gambar dibawah ini:
-Gambar 6
+Gambar 6 ![alt text](?raw=true)
 7. <h3>Menambahkan Gambar</h3>
 - Fungsi: Subjudul untuk bagian gambar.
 - Proses: Ditampilkan lebih kecil dari <h2>, menandakan subbagian.
@@ -59,10 +61,10 @@ Gambar 6
 - Proses: Browser mencari file gambar dan menampilkannya di halaman.
 ✅ Pastikan file logo_UPB.jpeg berada di folder yang sama dengan file HTML agar gambar muncul.
 Hasilnya:
-Gambar 7
+Gambar 7 ![alt text](?raw=true)
 
 Kemudian tambahkan kode untuk menampilkan konten visual ke pengguna seperti gambar dibawah ini:
-Gambar 8
+Gambar 8 ![alt text](?raw=true)
 9. <body> … </body>
 Bagian utama yang menampilkan konten visual ke pengguna.
 
@@ -74,10 +76,10 @@ Bagian navigasi berisi tautan ke halaman lain.
 - Fungsi: Membuat garis horizontal sebagai pemisah visual.
 - Proses: Memisahkan bagian navigasi dengan konten utama.
 Hasilnya:
-Gambar 9
+Gambar 9 ![alt text](?raw=true)
 
 Dan ini hasil semua kode langkah-langkah diatas:
-Gambar 10
+Gambar 10 ![alt text](?raw=true)
 
 📌 Kesimpulan
 Struktur HTML ini sudah lengkap dan benar untuk praktikum dasar:
