@@ -1,12 +1,12 @@
 Nama    : Muhamad Rizki Wahyu Saputra
-Nim     : 312410534
-Kelas   : TI.24.A5
-Matkul  : Pemograman Web 1
+<p> Nim     : 312410534
+<p> Kelas   : TI.24.A5
+<p>Matkul  : Pemograman Web 1
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Lab-1-Web
 Penjelasan Langkah-Langkah Kode HTML
 Siapkan Aplikasi VSCode
-Gambar 1 ![alt text](Gambar 1.png?raw=true)
+Gambar 1 ![alt text](https://github.com/ibntrmdzi/Lab-1-Web/blob/main/Gambar%201.png?raw=true)
 
 Kemudian buat file baru dengan nama lab1_tag_dasar.html dan masukan kode tag dasar dokumen
 HTML.
