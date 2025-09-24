@@ -74,11 +74,11 @@ Bagian navigasi berisi tautan ke halaman lain.
 - Fungsi: Membuat garis horizontal sebagai pemisah visual.
 - Proses: Memisahkan bagian navigasi dengan konten utama.
 Hasilnya:
-  ![alt text](https://github.com/ibntrmdzi/Lab-1-Web/blob/main/Gambar%209.png?raw=true)
+![alt text](https://github.com/ibntrmdzi/Lab-1-Web/blob/main/Gambar%209.png?raw=true)
 
 Dan ini hasil semua kode langkah-langkah diatas:
 ![alt text](https://github.com/ibntrmdzi/Lab-1-Web/blob/main/Gambar%2010.png?raw=true)
 
 <p>📌 Kesimpulan
 Struktur HTML ini sudah lengkap dan benar untuk praktikum dasar:
-
+![alt text](https://github.com/ibntrmdzi/Lab-1-Web/blob/main/Gambar%2011.png?raw=true)
